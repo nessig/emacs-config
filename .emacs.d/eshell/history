@@ -1,0 +1,13 @@
+cd ../..
+make html
+python
+$PATH
+$(PATH)
+env
+PATH
+echo hello >#<buffer results>
+ls
+find-file poland
+find-file zsh_demo
+python
+ipython
